@@ -1,7 +1,7 @@
-UAS Technopreneurship
-
-Thriftology:
-535210014 - Ardiansyah Jaya Winata
-535210037 - Yosia Amadeus Ishak
-535210048 - Jefri Jaya
-535210087 - Dhiwa Aqsha
+UAS Technopreneurship <br>
+<br>
+Thriftology: <br> 
+535210014 - Ardiansyah Jaya Winata <br>
+535210037 - Yosia Amadeus Ishak <br>
+535210048 - Jefri Jaya <br>
+535210087 - Dhiwa Aqsha <br>
